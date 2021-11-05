@@ -1,0 +1,25 @@
+/*
+ * bsp.c
+ *
+ *  Created on: 2021. 11. 5.
+ *      Author: gns2l
+ */
+
+
+#include "bsp.h"
+
+bool bspInit(void)
+{
+  return true;
+}
+
+void delay(uint32_t time_ms)
+{
+
+}
+
+
+uint32_t millis(void)
+{
+  return 0;
+}

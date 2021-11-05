@@ -11,6 +11,7 @@
 *.chm
 *.cproject
 *.project
+*.metadata
 
 
 ## 폴더 무시
